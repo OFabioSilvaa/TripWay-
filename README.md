@@ -1,6 +1,6 @@
 # 🚀 Projeto TripWay Backend API
 
-![Java](https://img.shields.io/badge/Java-24-blue?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-7.x-02303A?logo=gradle&logoColor=white)
